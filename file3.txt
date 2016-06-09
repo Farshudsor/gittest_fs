@@ -1,4 +1,7 @@
 file 3
 ada: adding a line to partner's file
 ada: adding the third line
+
 farshud testing a new conflict
+
+ada: adding the forth line
